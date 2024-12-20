@@ -4,7 +4,7 @@
 
 This PsychoPy experiment measures sustained attention and reaction time (RT) by requiring participants to press the **SPACEBAR** as quickly as possible when a red counter appears on the screen. 
 
-This experiment is a fork of the original PVT experiment developed by Erik Marsja:  
+This experiment is a fork of the original PsychoPy PVT experiment developed by Erik Marsja:  
 [https://www.marsja.se/psychomotor-vigilance-task-psychopy-pvt](https://www.marsja.se/psychomotor-vigilance-task-psychopy-pvt)
 
 ## Instructions
