@@ -1,4 +1,4 @@
-# Psychomotor Vigilance Task (PVT) Experiment for the NIBS Team
+# Psychomotor Vigilance Task (PVT) for the NIBS Team
 
 ## Description
 
