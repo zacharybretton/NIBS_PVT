@@ -27,3 +27,5 @@ This experiment is a fork of the original PsychoPy PVT experiment developed by E
 The experiment saves trial data automatically in a `.txt` file during the experiment. Output files are saved in the `pvt_txt_data` directory with the following format:
 
 `sub-<SubjectID>_PVT_data.txt`
+
+Raw PsychoPy data is still saved to the `data` directory with standard `.csv`, `.log`, and `.psydat` files. 
